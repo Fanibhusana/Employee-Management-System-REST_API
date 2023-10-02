@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-company-logo-url-here.com" alt="Your Company Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg"alt="Logo" width="200" height="200">
 </p>
 
 <h1 align="center">Employee Management System REST API</h1>
@@ -10,13 +10,7 @@
   <a href="#getting-started">Getting Started</a> •
   <a href="#usage">Usage</a> •
   <a href="#endpoints">Endpoints</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/version-v1.0.0-blue.svg" alt="Version 1.0.0">
-  <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="License">
+  <a href="#contributing">Contributing</a> 
 </p>
 
 ## 🚀 Welcome to the Employee Management System REST API!
@@ -39,13 +33,13 @@ Manage your organization's workforce with ease using our powerful Employee Manag
 - 🐬 [MySQL](https://www.mysql.com/)
 - 🛠️ [Lombok](https://projectlombok.org/)
 - ☕ [JDK](https://www.oracle.com/java/)
-- 🌐 Embedded Tomcat
+- 🌐 [Tomcat](https://tomcat.apache.org/)
 - 🛠️ [Maven](https://maven.apache.org/)
 - 🛠️ [Spring Tool Suite (STS)](https://spring.io/tools)
 
 ## 🚀 Getting Started
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/employee-management-api.git`
+1. **Clone the Repository**: `git clone https://github.com/Fanibhusana/Employee-Management-System-REST_API.git`
 
 2. **Configure Database**: Set up your MySQL database and update the `application.properties` file with your database credentials.
 
@@ -81,14 +75,12 @@ For detailed documentation, refer to the API documentation or use Postman for te
 
 ## 🤝 Contributing
 
-We welcome contributions! Please follow our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions! Please [Feel free to reach out to me](https://forms.gle/5VPwFY7KtV1V6W4i8) to get started.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 <p align="center">
-  Made with ❤️ by Your Company
+  Made with ❤️
+  Happy coding! 🚀👩‍💻👨‍💻
 </p>
