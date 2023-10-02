@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Employee Management System REST API</h1>
-
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#tools-and-technologies">Tools and Technologies</a> •
